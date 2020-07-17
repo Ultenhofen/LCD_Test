@@ -11,6 +11,7 @@
 # 5. I am stupid and technically made everything upside down. Flip all text so it looks right when being held
 # 6. Update readme with places you can buy parts instead of just datasheets and websites
 # 7. Print the board and actually see if this thing works
+# 8. Add arduino code for the nano
 #
 # Parts used:
 # LCD: Longtech LCM1602A http://www.longtech-display.com/PRODUTS/LCD%20MODULES/character%20module1.htm
